@@ -1,0 +1,47 @@
+.introScreen {
+  text-align: center;
+  padding: 2rem;
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+.title {
+  font-size: 2.5rem;
+  color: #333;
+  margin-bottom: 1rem;
+}
+
+.subtitle {
+  font-size: 1.2rem;
+  color: #666;
+  margin-bottom: 2rem;
+}
+
+.quizImage {
+  margin: 2rem 0;
+}
+
+.placeholderImage {
+  font-size: 5rem;
+}
+
+.startButton {
+  background-color: #007bff;
+  color: white;
+  border: none;
+  padding: 1rem 2rem;
+  font-size: 1.2rem;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+.startButton:hover {
+  background-color: #0056b3;
+}
+
+.disclaimer {
+  margin-top: 2rem;
+  font-size: 0.9rem;
+  color: #999;
+} 
